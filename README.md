@@ -35,7 +35,9 @@ Replace the {content} with your input.
 **Right click** on *Part2.java* -> **Run As** -> Java Application
 
 The server can be queried as:
+```
 http://localhost:10000/DIbookinggo?pickup={pick up latitude},{pick up longitude}&dropoff={drop off latitude},{drop off longitude}&passengers={number of passengers}
+```
 
 Replace the {content} with your input.
 
